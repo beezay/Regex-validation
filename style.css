@@ -1,0 +1,12 @@
+hr.type_5 {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+
+body {
+    /* Base64 encoded transparent gif */
+    background: url(./world-140304_1920.jpg) no-repeat;
+  }
